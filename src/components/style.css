@@ -1,15 +1,19 @@
 #container {
     width: auto;
+    justify-content: center;
+    align-items: center;
     
   }
   .box {
     background-color: blue;
     text-align: center;
-    color: blue;
+    /* color:blue; */
     width: 200px;
     border:2px solid black;
+    cursor: pointer;
     
   }
   .p {
     color: blue;
+    cursor: pointer;
   }
